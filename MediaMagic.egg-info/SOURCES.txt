@@ -1,0 +1,8 @@
+README.md
+setup.py
+MediaMagic.egg-info/PKG-INFO
+MediaMagic.egg-info/SOURCES.txt
+MediaMagic.egg-info/dependency_links.txt
+MediaMagic.egg-info/entry_points.txt
+MediaMagic.egg-info/requires.txt
+MediaMagic.egg-info/top_level.txt

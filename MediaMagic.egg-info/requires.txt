@@ -1,0 +1,5 @@
+yt-dlp>=2023.3.3
+requests>=2.26.0
+ffmpeg-python>=0.2.0
+beautifulsoup4>=4.10.0
+spotipy>=2.20.0

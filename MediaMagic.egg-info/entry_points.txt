@@ -1,0 +1,2 @@
+[console_scripts]
+mediamagic = mediamagic.cli:main

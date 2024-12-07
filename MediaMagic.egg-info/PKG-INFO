@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: MediaMagic
+Version: 0.1.0
+Summary: A powerful and extensible all-media downloader for videos, audio, and more.
+Home-page: https://github.com/ShUBHaMJHA9/mediamagic
+Author: Codetech
+Author-email: admin@codetech
+License: MIT
+Project-URL: Documentation, https://github.com/ShUBHaMJHA9/mediamagic/wiki
+Project-URL: Source, https://github.com/ShUBHaMJHA9/mediamagic
+Project-URL: Tracker, https://github.com/ShUBHaMJHA9/mediamagic/issues
+Keywords: media downloader audio video youtube tiktok terabox instagram dailymotion spotify
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Multimedia :: Video
+Classifier: Topic :: Multimedia :: Sound/Audio
+Classifier: Development Status :: 4 - Beta
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: yt-dlp>=2023.3.3
+Requires-Dist: requests>=2.26.0
+Requires-Dist: ffmpeg-python>=0.2.0
+Requires-Dist: beautifulsoup4>=4.10.0
+Requires-Dist: spotipy>=2.20.0
+
+# MediaMagic
+
+MediaMagic is a versatile all-media downloader for videos, audio, and more, supporting platforms like YouTube, TikTok, Instagram, and Terabox.
